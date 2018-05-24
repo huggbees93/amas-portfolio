@@ -67,7 +67,7 @@ h1{
 /* hoover aca es para decir cuando el mouse pasa sobre un punto, la funcion encierra todo lo que pasa
  cuando el mouse pasa sobre a*/
 .menu ul li a:hover{
-    background: green;
+    background: red;
 }
 .menu ul li a:visited{
     color: none;
